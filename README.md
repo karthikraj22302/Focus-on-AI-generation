@@ -133,5 +133,4 @@ test('End-to-End Flow', async ({ page }) => {
 
 ## Author
 
-telecmi QA Team  
-Contact: karthikraj@telecmi.com
+Contact: karthikraj22302@gmail.com
